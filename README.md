@@ -32,12 +32,14 @@ This app show cases how Blockly is can be utilized for generating tree based (in
 
 ### Visualization Example
 This visualization is to reflect the tree and blockly implementation.
-- Uses DFS traversal
-- From left to right AND operation.
-- From top to bottom OR operation.
 
 #### Tree Node
+- Uses DFS traversal
+- From top to bottom AND operation.
+- From left to right OR operation.
 ![Screenshot 2024-02-18 at 4 08 37 PM](https://github.com/rakadityas/blockly-tree-generator/assets/37207252/a67b3731-ade4-4470-ba21-56552926930d)
 
 #### Blockly Example
+- From left to right AND operation.
+- From top to bottom OR operation.
 <img width="992" alt="Screenshot 2024-02-18 at 3 35 57 PM" src="https://github.com/rakadityas/blockly-tree-generator/assets/37207252/f96da2d2-7a24-438e-865c-429e878007c2">
