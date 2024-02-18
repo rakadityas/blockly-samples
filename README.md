@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This app show cases how Blockly is can be utilized for generating tree based (in this case DFS based) user interfaces. Merely a very rough prove of concept, this code does not offers running functionality, only visualization.
+This app show cases how Blockly can be utilized for generating tree based (in this case DFS based) user interfaces. Merely a very rough prove of concept, this code does not offers running functionality, only act as visualization.
 
 ## Quick Start
 
@@ -37,6 +37,8 @@ This visualization is to reflect the tree and blockly implementation.
 - Uses DFS traversal
 - From top to bottom AND operation.
 - From left to right OR operation.
+
+
 ![Screenshot 2024-02-18 at 4 08 37 PM](https://github.com/rakadityas/blockly-tree-generator/assets/37207252/a67b3731-ade4-4470-ba21-56552926930d)
 
 #### Blockly Example
